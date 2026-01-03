@@ -61,6 +61,22 @@ I'm a **Full Stack Developer** specializing in building exceptional digital expe
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vipuldarji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vipuldarji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💎_COMMITS-18-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Commits" />
+  <img src="https://img.shields.io/badge/🔥_STREAK-ACTIVE-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Streak" />
+  <img src="https://img.shields.io/badge/📦_REPOS-6-9945FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/badge/🎯_GRADE-A+-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Grade" />
+</p>
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🤖 [AI-Powered Expense Tracker](https://github.com/vipuldarji)
@@ -113,19 +129,6 @@ const vipulDarji = {
   ]
 };
 ```
-
----
-
-## 📈 My GitHub Journey
-
-<div align="center">
-
-**6 Repositories** • **Active Contributor** • **Building in Public**
-
-Focused on creating impactful full-stack applications with modern technologies.
-Check out my pinned repositories below to see my best work! 👇
-
-</div>
 
 ---
 
