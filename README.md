@@ -8,7 +8,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-vipuldarji.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vipuldarji.vercel.app)
   [![Email](https://img.shields.io/badge/Email-imvipul29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imvipul29@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipuldarji)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-darji-18602812a/)
   
   📍 **Based in Canada** • 🌐 **Open to Remote Opportunities** • 💼 **Available for Hire**
   
